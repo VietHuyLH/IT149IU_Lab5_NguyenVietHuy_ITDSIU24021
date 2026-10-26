@@ -1,0 +1,4 @@
+Original: [23, 34, 67, 87, 22, 43, 34, 87, 23, 33, 22, 34]
+Unique: [23, 34, 67, 87, 22, 43, 33]
+Empty list test: []
+All-same test: [5]

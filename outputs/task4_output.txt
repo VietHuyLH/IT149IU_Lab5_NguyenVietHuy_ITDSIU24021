@@ -1,0 +1,21 @@
+Who played Ned Stark?
+Options: Sean Bean, Mark Addy, Nikolaj Coster-Waldau, Michelle Fairley, Lena Headey
+Actor name: Correct!
+
+Who played Robert Baratheon?
+Options: Sean Bean, Mark Addy, Nikolaj Coster-Waldau, Michelle Fairley, Lena Headey
+Actor name: Correct!
+
+Who played Jaime Lannister?
+Options: Sean Bean, Mark Addy, Nikolaj Coster-Waldau, Michelle Fairley, Lena Headey
+Actor name: Correct!
+
+Who played Catelyn Stark?
+Options: Sean Bean, Mark Addy, Nikolaj Coster-Waldau, Michelle Fairley, Lena Headey
+Actor name: Correct!
+
+Who played Cersei Lannister?
+Options: Sean Bean, Mark Addy, Nikolaj Coster-Waldau, Michelle Fairley, Lena Headey
+Actor name: Correct!
+
+Game finished. Correct character links: 5/5

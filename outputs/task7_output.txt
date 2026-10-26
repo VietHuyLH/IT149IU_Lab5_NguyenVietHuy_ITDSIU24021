@@ -1,0 +1,8 @@
+List queue: [3, 2, 1]
+dequeue: 3
+dequeue: 2
+dequeue: 1
+deque popleft: 3
+deque popleft: 2
+deque popleft: 1
+list.pop(0) shifts remaining elements (O(n)); deque.popleft() is O(1) approximately.

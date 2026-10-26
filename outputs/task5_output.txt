@@ -1,0 +1,34 @@
+a) By description:
+('83', 'Electric sander', 7, 57.98)
+('77', 'Hammer', 76, 11.99)
+('39', 'Jig saw', 3, 79.5)
+('24', 'Power saw', 18, 99.99)
+('7', 'Sledge hammer', 11, 21.5)
+
+b) By unit price:
+('77', 'Hammer', 76, 11.99)
+('7', 'Sledge hammer', 11, 21.5)
+('83', 'Electric sander', 7, 57.98)
+('39', 'Jig saw', 3, 79.5)
+('24', 'Power saw', 18, 99.99)
+
+c) Description and quantity:
+('Jig saw', 3)
+('Electric sander', 7)
+('Sledge hammer', 11)
+('Power saw', 18)
+('Hammer', 76)
+
+d) Invoice values:
+Sledge hammer: $236.50
+Jig saw: $238.50
+Electric sander: $405.86
+Hammer: $911.24
+Power saw: $1799.82
+
+e) Values from $200 to $500:
+Sledge hammer: $236.50
+Jig saw: $238.50
+Electric sander: $405.86
+
+f) Total: $3591.92

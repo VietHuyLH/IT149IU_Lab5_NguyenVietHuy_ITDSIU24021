@@ -1,0 +1,8 @@
+'(a[b]{c})' -> True
+'([)]' -> False
+'((x)' -> False
+'' -> True
+'no brackets' -> True
+'{[()()]}' -> True
+'{[(])}' -> False
+']' -> False

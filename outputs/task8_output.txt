@@ -1,0 +1,11 @@
+Minimum: 174
+Maximum: 1704
+Range: 1530
+Mean: 845.70
+Median: 704.50
+Sample variance: 253620.75
+Sample standard deviation: 503.61
+
+STDERR:
+/mnt/data/IT149IU_Lab5_NguyenVietHuy_ITDSIU24021/codes/Task8.py:22: UserWarning: FigureCanvasAgg is non-interactive, and thus cannot be shown
+  plt.xticks(range(1, 21)); plt.tight_layout(); plt.savefig("../outputs/task8_infection_bar_chart.png", dpi=160, bbox_inches="tight"); plt.show()
